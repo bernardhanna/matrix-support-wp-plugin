@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.widefat {
+    overflow: hidden!important;
+ }
+
+.widefat tr:nth-child(odd) {
+    background: #efefef!important;
+}
+
+.widefat tr td {
+     text-align: left!important;
+}
